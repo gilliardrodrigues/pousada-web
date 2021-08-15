@@ -20,6 +20,10 @@ img {
 .container {
     max-width: 1024px;
 }
+.tamanho-maximo-container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
 .topo .container {
     display: flex;
     align-items: center;
@@ -35,7 +39,7 @@ img {
     font-size: 24px;
     /*margin: 0 40px 0 0;*/
 }
-.link-titulo span {
+.link-logotipo span {
     color: #6592c9;
 }
 .link-topo {

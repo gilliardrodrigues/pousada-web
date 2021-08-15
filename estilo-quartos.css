@@ -1,0 +1,17 @@
+.imagem-fundo-quartos {
+    height: 30vh;
+}
+.imagens {
+    width: 33%;
+    padding-bottom: 10px;
+}
+.lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.lista li {
+    width: 25%;
+    text-align: left;
+    margin-top: 10px;
+}
